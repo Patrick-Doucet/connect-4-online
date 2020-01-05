@@ -1,0 +1,27 @@
+C:\Users\Patt\source\repos\Connect-4-Client\Connect-4-Client\bin\Debug\Connect-4-Client.exe.config
+C:\Users\Patt\source\repos\Connect-4-Client\Connect-4-Client\bin\Debug\Connect-4-Client.exe
+C:\Users\Patt\source\repos\Connect-4-Client\Connect-4-Client\bin\Debug\Connect-4-Client.pdb
+C:\Users\Patt\source\repos\Connect-4-Client\Connect-4-Client\obj\Debug\Connect-4-Client.csprojAssemblyReference.cache
+C:\Users\Patt\source\repos\Connect-4-Client\Connect-4-Client\obj\Debug\Connect_4_Client.Properties.Resources.resources
+C:\Users\Patt\source\repos\Connect-4-Client\Connect-4-Client\obj\Debug\Connect-4-Client.csproj.GenerateResource.cache
+C:\Users\Patt\source\repos\Connect-4-Client\Connect-4-Client\obj\Debug\Connect-4-Client.csproj.CoreCompileInputs.cache
+C:\Users\Patt\source\repos\Connect-4-Client\Connect-4-Client\obj\Debug\Connect-4-Client.exe
+C:\Users\Patt\source\repos\Connect-4-Client\Connect-4-Client\obj\Debug\Connect-4-Client.pdb
+C:\Users\Patt\source\repos\Connect-4-Client\Connect-4-Client\obj\Debug\Connect_4_Client.GameForm.resources
+C:\Users\Patt\source\repos\Connect-4-Client\Connect-4-Client\obj\Debug\Connect_4_Client.WinForm.resources
+C:\Users\Patt\source\repos\Connect-4-Client\Connect-4-Client\obj\Debug\Connect_4_Client.MainForm.resources
+C:\Users\Patt\source\repos\Connect-4-Client\Connect-4-Client\obj\Debug\Connect_4_Client.AcceptForm.resources
+C:\Users\Patt\source\repos\Connect-4-Client\Connect-4-Client\obj\Debug\Connect_4_Client.WelcomeForm.resources
+C:\Users\Patt\Documents\Git Repositories\final-project-info4002\Client-Side\Connect-4-Client\Connect-4-Client\bin\Debug\Connect-4-Client.exe.config
+C:\Users\Patt\Documents\Git Repositories\final-project-info4002\Client-Side\Connect-4-Client\Connect-4-Client\bin\Debug\Connect-4-Client.exe
+C:\Users\Patt\Documents\Git Repositories\final-project-info4002\Client-Side\Connect-4-Client\Connect-4-Client\bin\Debug\Connect-4-Client.pdb
+C:\Users\Patt\Documents\Git Repositories\final-project-info4002\Client-Side\Connect-4-Client\Connect-4-Client\obj\Debug\Connect_4_Client.AcceptForm.resources
+C:\Users\Patt\Documents\Git Repositories\final-project-info4002\Client-Side\Connect-4-Client\Connect-4-Client\obj\Debug\Connect_4_Client.GameForm.resources
+C:\Users\Patt\Documents\Git Repositories\final-project-info4002\Client-Side\Connect-4-Client\Connect-4-Client\obj\Debug\Connect_4_Client.MainForm.resources
+C:\Users\Patt\Documents\Git Repositories\final-project-info4002\Client-Side\Connect-4-Client\Connect-4-Client\obj\Debug\Connect_4_Client.Properties.Resources.resources
+C:\Users\Patt\Documents\Git Repositories\final-project-info4002\Client-Side\Connect-4-Client\Connect-4-Client\obj\Debug\Connect_4_Client.WelcomeForm.resources
+C:\Users\Patt\Documents\Git Repositories\final-project-info4002\Client-Side\Connect-4-Client\Connect-4-Client\obj\Debug\Connect_4_Client.WinForm.resources
+C:\Users\Patt\Documents\Git Repositories\final-project-info4002\Client-Side\Connect-4-Client\Connect-4-Client\obj\Debug\Connect-4-Client.csproj.GenerateResource.cache
+C:\Users\Patt\Documents\Git Repositories\final-project-info4002\Client-Side\Connect-4-Client\Connect-4-Client\obj\Debug\Connect-4-Client.exe
+C:\Users\Patt\Documents\Git Repositories\final-project-info4002\Client-Side\Connect-4-Client\Connect-4-Client\obj\Debug\Connect-4-Client.pdb
+C:\Users\Patt\Documents\Git Repositories\final-project-info4002\Client-Side\Connect-4-Client\Connect-4-Client\obj\Debug\Connect-4-Client.csprojResolveAssemblyReference.cache
