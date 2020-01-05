@@ -1,3 +1,3 @@
-# Final Project INFO4002
+# Connect 4 Online
 
-allez les copains, ça va être super! :D
+Connect 4 server and client that enables anyone to host a server and connect to it using the client. All new users enter the client with a new name and enter a lobby where they can challenge any other user to a game.
